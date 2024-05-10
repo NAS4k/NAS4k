@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm NAS4k</h1>
 <h3 align="center">I'm interested in Coding Roblox Scripts n Creating Discord Stuff</h3>
 
+- 🔭 I’m currently working on **Bedwars Client**
+
+- 🌱 I’m currently learning **Unreal**
+
 - 📫 How to reach me **mmzaplaterja1@gmail.com**
+
+- ⚡ Fun fact **I Wanna create my Bedwars Client Faster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
